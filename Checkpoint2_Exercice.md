@@ -1,0 +1,7 @@
+- Q.2.1: Prise en main a distance et copie du fichier ![](https://raw.githubusercontent.com/Calllmeonichan/Checkpoint2/main/distance.png)
+- Q.2.2: une fenetre Powershell s'ouvre et se ferme ```Start-Process -FilePath "powershell.exe" -ArgumentList "C:\Scripts\AddLocalUsers.ps1" -Verb RunAs -WindowStyle Maximized```
+- Q.2.3: l'option -Verb RunAs sert a excecute en temps que " "
+- q.2.4: -WindowsStyle Maximized ouvrir en plein ecran
+- Q.2.5: a cause du skip 2 qui passe a la 3 eme ligne du fichier
+- Q.2.6: parcequ'on ne la pas rajouter dans les arguments
+- Q.2.7,8,9:
